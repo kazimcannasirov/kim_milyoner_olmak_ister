@@ -28,7 +28,7 @@ python milyoner.py
 
 ## 📸 Ekran görüntüsü
 
-*(bura oyunun screenshot-unu əlavə et)*
+![screenshot](screen.png)
 
 ## 💡 Gələcək planlar
 
